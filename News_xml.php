@@ -12,8 +12,8 @@
     $PostTitle ="";
 
 
-    DEFINE ('DB_USER', 'root');   
-    DEFINE ('DB_PASSWORD', '');   
+    DEFINE ('DB_USER', 'edibbwqq_samacha');   
+    DEFINE ('DB_PASSWORD', 'NamAO#a}cCdI');   
     DEFINE ('DB_HOST', 'localhost');   
     DEFINE ('DB_NAME', 'edibbwqq_News'); 
 
